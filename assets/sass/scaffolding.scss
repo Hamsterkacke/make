@@ -458,6 +458,7 @@ div.custom-logo {
 					@include rem('padding', $base/2 $gut/2);
 				}
 				display: block;
+				font-family: $sans;
 				font-weight: normal; //reset
 				color: $b;
 				line-height: 1.8;
